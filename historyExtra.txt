@@ -1,0 +1,99 @@
+    1  ~
+    2  cd ~
+    3  mkdir examen372
+    4  cd examen372
+    5  mkdir create.sh
+    6  #! /bin/bash
+    7  echo '#!/bin/bash' > create.sh
+    8  echo '#!/bin/bash' > create.sh
+    9  create.sh code .
+   10  mkdir webapp
+   11  cd webapp
+   12  mkdir css
+   13  mkdir js
+   14  mkdir docs
+   15  cd docs
+   16  mkdir text
+   17  mkdir python
+   18  cd webapp
+   19  cd ..
+   20  mkdir img
+   21  ~
+   22  ls
+   23  cd docs
+   24  ls
+   25  cd ..
+   26  rm-rf webapp
+   27  rm -rf webapp
+   28  cd..
+   29  cd ..
+   30  rm -rf webapp
+   31  ls
+   32  cmd //c tree //F ./
+   33  cd webapp
+   34  ls
+   35  ./create.sh
+   36  ./create.sh
+   37  ./create.sh
+   38  ls
+   39  rm -rf webapp
+   40  ls
+   41  ./create.sh
+   42  ls
+   43  rm -rf webapp
+   44  ls
+   45  ./create.sh
+   46  ls
+   47  rm -rf webapp
+   48  ./create.sh
+   49  rm -rf webapp
+   50  ./create.sh
+   51  cd webapp
+   52  ls
+   53  mv style.css ~ /c/User/DELL/examen372/webapp/css
+   54  mv style.css ~ css
+   55  mv style.css ~ /c/Users/DELL/examen372/webapp/css
+   56  ls
+   57  cd css
+   58  ls
+   59  rm -rf webapp
+   60  ./create.sh
+   61  ./create.sh
+   62  ls
+   63  cd ..
+   64  cd..
+   65  cd ..
+   66  rm -rf webapp
+   67  ./create.sh
+   68  cd webapp
+   69  ls
+   70* mv file1.txt ~ /c/Users/DELL/examen372/webapp/docs/tex
+   71  ls
+   72  mv file2.txt ~ /c/Users/DELL/examen372/webapp/docs/text
+   73  ls
+   74  [200~mv *.txt ~ /c/Users/DELL/examen372/webapp/docs/text
+   75  mv *.txt ~ /c/Users/DELL/examen372/webapp/docs/text
+   76  ls
+   77  cd ..
+   78  rm -rf webapp
+   79  ./create.sh
+   80  ls
+   81  cd webapp
+   82  ls
+   83  cd ..
+   84  rm -rf webapp
+   85  ./create.sh
+   86  rm -rf webapp
+   87  ./create.sh
+   88  ls
+   89  mv examen.md README.md
+   90  mv examen372.md README.md
+   91  ls
+   92  history > history.txt
+   93  ls
+   94  python -m venv virtual
+   95  source ./virtual/Scripts/activate
+   96  pip install jupyterlab
+   97  jupyter lab
+   98  deactivate
+   99  history > historyExtra.txt
